@@ -1,4 +1,4 @@
-## Hey 👋, I'm Senior Full Stack Developer & Software Engineer  
+## Hi 👋, I'm a Senior Full Stack Developer & Software Engineer  
   
 
 <a href="https://github.com/encourage317125" target="_blank">
