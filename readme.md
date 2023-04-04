@@ -1,11 +1,6 @@
 ## Hi 👋, I'm a Senior Full Stack Developer & Software Engineer  
   
 
-<a href="https://github.com/encourage317125" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-  
-
 
 
 ### Glad to see you here!  
